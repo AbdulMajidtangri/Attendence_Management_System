@@ -1,0 +1,139 @@
+{
+  "batches": [
+    {
+      "batchName": "2021",
+      "sections": [
+        {
+          "section": "A",
+          "students": [
+            "Ali Raza",
+            "Hassan Ahmed",
+            "Maryam Khan",
+            "Fatima Noor",
+            "Bilal Malik",
+            "Sana Tariq"
+          ]
+        },
+        {
+          "section": "B",
+          "students": [
+            "Hamza Ali",
+            "Iqra Zafar",
+            "Zainab Sheikh",
+            "Asad Rehman",
+            "Muneeb Iqbal",
+            "Ayesha Ahmed"
+          ]
+        }
+      ]
+    },
+    {
+      "batchName": "2022",
+      "sections": [
+        {
+          "section": "A",
+          "students": [
+            "Ahmed Rauf",
+            "Sadia Malik",
+            "Adeel Khan",
+            "Laiba Qureshi",
+            "Faizan Asif",
+            "Hira Yousaf"
+          ]
+        },
+        {
+          "section": "B",
+          "students": [
+            "Usman Tariq",
+            "Rabia Khan",
+            "Nimra Arif",
+            "Rizwan Ali",
+            "Hassan Qureshi",
+            "Emaan Shah"
+          ]
+        }
+      ]
+    },
+    {
+      "batchName": "2023",
+      "sections": [
+        {
+          "section": "A",
+          "students": [
+            "Ali Hamza",
+            "Maham Raza",
+            "Ahsan Khan",
+            "Fariha Ahmed",
+            "Taha Rehman",
+            "Zoya Malik"
+          ]
+        },
+        {
+          "section": "B",
+          "students": [
+            "Daniyal Asif",
+            "Amna Javed",
+            "Hassan Nawaz",
+            "Sana Qureshi",
+            "Arham Iqbal",
+            "Inaya Tariq"
+          ]
+        }
+      ]
+    },
+    {
+      "batchName": "2024",
+      "sections": [
+        {
+          "section": "A",
+          "students": [
+            "Hassan Ali",
+            "Mishal Rauf",
+            "Taimoor Khan",
+            "Aqsa Noor",
+            "Haider Abbas",
+            "Sadia Rehman"
+          ]
+        },
+        {
+          "section": "B",
+          "students": [
+            "Bilal Qureshi",
+            "Sana Javed",
+            "Yasir Mehmood",
+            "Maira Khan",
+            "Adeel Raza",
+            "Anum Tariq"
+          ]
+        }
+      ]
+    },
+    {
+      "batchName": "2025",
+      "sections": [
+        {
+          "section": "A",
+          "students": [
+            "Hamza Shah",
+            "Zain Malik",
+            "Alina Ahmed",
+            "Taimur Raza",
+            "Esha Khan",
+            "Hammad Ali"
+          ]
+        },
+        {
+          "section": "B",
+          "students": [
+            "Fatima Rehman",
+            "Sana Khan",
+            "Umer Farooq",
+            "Areeba Javed",
+            "Ali Abbas",
+            "Muzammil Tariq"
+          ]
+        }
+      ]
+    }
+  ]
+}
